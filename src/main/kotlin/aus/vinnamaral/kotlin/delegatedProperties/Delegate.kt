@@ -1,4 +1,4 @@
-package aus.vinnamaral.kotlin.propertyDelegation
+package aus.vinnamaral.kotlin.delegatedProperties
 
 import kotlin.reflect.KProperty
 
