@@ -1,9 +1,6 @@
 package aus.vinnamaral.kotlin.implementationDelegation
 
-import com.ubertob.functionLiteralsWithReceiver.User
-
-
-
+import aus.vinnamaral.kotlin.functionLiteralsWithReceiver.User
 
 typealias Row = Map<String, Any> //a db row is expressed as a Map field->value
 

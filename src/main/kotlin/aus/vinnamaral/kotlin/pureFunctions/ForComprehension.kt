@@ -1,9 +1,9 @@
 package aus.vinnamaral.kotlin.pureFunctions
 
-import com.ubertob.outcome.Failure
-import com.ubertob.outcome.Outcome
-import com.ubertob.outcome.OutcomeError
-import com.ubertob.outcome.Success
+import aus.vinnamaral.kotlin.outcome.Failure
+import aus.vinnamaral.kotlin.outcome.OutcomeError
+import aus.vinnamaral.kotlin.outcome.Outcome
+import aus.vinnamaral.kotlin.outcome.Success
 
 fun `example from Roman Elizarov`() {
 //    flow { for(a in ...) for(b in ...) .... emit(result) }

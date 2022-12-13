@@ -1,7 +1,7 @@
 package aus.vinnamaral.kotlin.unlearnoop
 
-import com.ubertob.outcome.Outcome
-import com.ubertob.outcome.OutcomeError
+import aus.vinnamaral.kotlin.outcome.Outcome
+import aus.vinnamaral.kotlin.outcome.OutcomeError
 import java.math.BigDecimal
 import java.time.LocalDate
 

@@ -1,8 +1,8 @@
 package aus.vinnamaral.kotlin.functors
 
-import com.ubertob.outcome.*
-import com.ubertob.outcome.Outcome.Companion.tryThis
-import com.ubertob.unlearnoop.JsonNode
+import aus.vinnamaral.kotlin.outcome.Outcome.Companion.tryThis
+import aus.vinnamaral.kotlin.outcome.*
+import aus.vinnamaral.kotlin.unlearnoop.JsonNode
 import java.util.concurrent.atomic.AtomicReference
 import kotlin.properties.ReadOnlyProperty
 import kotlin.reflect.KProperty

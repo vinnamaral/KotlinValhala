@@ -1,6 +1,6 @@
 package aus.vinnamaral.kotlin.unlearnoop
 
-import com.ubertob.outcome.Outcome
+import aus.vinnamaral.kotlin.outcome.Outcome
 
 
 fun processAll(contracts: List<Contract>):

@@ -1,8 +1,9 @@
 package aus.vinnamaral.kotlin.adjunction
 
-import com.ubertob.functors.AbstractJsonNode
-import com.ubertob.functors.JsonNodeObject
-import com.ubertob.functors.JsonNodeString
+
+import aus.vinnamaral.kotlin.functors.AbstractJsonNode
+import aus.vinnamaral.kotlin.functors.JsonNodeObject
+import aus.vinnamaral.kotlin.functors.JsonNodeString
 
 /*
     class Profunctor p where

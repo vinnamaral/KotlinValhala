@@ -1,6 +1,6 @@
 package aus.vinnamaral.kotlin.functors
 
-import com.ubertob.outcome.bind
+import aus.vinnamaral.kotlin.outcome.bind
 
 data class T1<A>(val first: A) {
     fun <A1> map(fa: (A) -> A1): T1<A1> = T1(fa(first))

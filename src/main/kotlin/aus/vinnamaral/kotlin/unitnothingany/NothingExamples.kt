@@ -1,6 +1,6 @@
 package aus.vinnamaral.kotlin.unitnothingany
 
-import com.ubertob.functionLiteralsWithReceiver.User
+import aus.vinnamaral.kotlin.functionLiteralsWithReceiver.User
 
 fun neverReturn(): Nothing {
     throw Exception("never!")

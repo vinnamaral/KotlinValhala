@@ -1,6 +1,6 @@
 package aus.vinnamaral.kotlin.partials
 
-import com.ubertob.pointFree.curry
+import aus.vinnamaral.kotlin.pointFree.curry
 import java.time.LocalDate
 import java.util.*
 
